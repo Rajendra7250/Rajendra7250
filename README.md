@@ -13,7 +13,7 @@ I'm a developer in progress, focused on mastering fundamentals and building real
 * 💬 Ask me about HTML, CSS, and starting your coding journey
 * 📫 How to reach me: www.linkedin.com/in/rajendra-madival-683334340
 * 😄 Pronouns: He/Him
-* ⚡ Fun fact: I’m also a writer working on *Tatva Vera - the prophecy of elemental harmony*, building worlds alongside code
+* ⚡ Fun fact: I also like to play chess
 
 ---
 
