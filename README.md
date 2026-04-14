@@ -26,10 +26,7 @@ I'm a developer in progress, focused on mastering fundamentals and building real
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Rajendra7250&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajendra7250&layout=compact&theme=github_dark)
 
 ### 🔥 Streak Stats
 ![Streak](https://streak-stats.demolab.com?user=Rajendra7250&theme=github_dark)
